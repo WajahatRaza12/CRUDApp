@@ -6,13 +6,10 @@ This repository contains a React CRUD (Create, Read, Update, Delete) application
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run start:dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The npm run start:dev script is a convenient command that allows developers to concurrently run multiple processes for the application during the development phase. This script is often used when working on projects that require both the frontend and backend components to run simultaneously. By utilizing the concurrently package, this command initiates the execution of two or more scripts in parallel, streamlining the development workflow.
 
 ### `npm run build`
 
