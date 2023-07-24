@@ -10,6 +10,10 @@ This repository contains a React CRUD (Create, Read, Update, Delete) application
 
 In the project directory, you can run:
 
+### `npm install`
+
+It can install all the required dependencies that needs to run the application
+
 ### `npm run start:dev`
 
 Runs the app in the development mode.\
