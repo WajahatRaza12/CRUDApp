@@ -12,7 +12,7 @@ import EditUser from './components/users/EditUser';
 import User from './components/users/User';
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="crudapp">
 
     <div className="App">
     <Navbar/>

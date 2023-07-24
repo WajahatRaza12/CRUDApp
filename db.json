@@ -91,6 +91,14 @@
         "catchPhrase": "Multi-tiered zero tolerance productivity",
         "bs": "transition cutting-edge web services"
       }
+    },
+    {
+      "name": "Wajahat",
+      "username": "Raza",
+      "email": "raza@gmadf.com",
+      "phone": "111-111-111",
+      "website": "abc.com",
+      "id": 5
     }
   ]
 }

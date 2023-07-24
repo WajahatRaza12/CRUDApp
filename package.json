@@ -1,4 +1,5 @@
 {
+  "homepage": "https://WajahatRaza12.github.io/CRUDApp",
   "name": "react_redux_app",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +25,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "start:dev": "concurrently \"npm start\" \"npm run json-server\"",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
